@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(image.jpg);
+    background: url(./assets/image.jpg);
   background-size: cover;
     padding: 30px;
   font-family: "Poppins", sans-serif;
